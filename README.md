@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/rubyservices/yodo.png?branch=master)](http://travis-ci.org/rubyservices/yodo) [![Gem Version](https://badge.fury.io/rb/yodo.png)](http://badge.fury.io/rb/yodo)
+[![Build Status](https://secure.travis-ci.org/garysweaver/yodo.png?branch=master)](http://travis-ci.org/garysweaver/yodo) [![Gem Version](https://badge.fury.io/rb/yodo.png)](http://badge.fury.io/rb/yodo)
 # Yodo
 
 Determines what includes you need to avoid n+1 queries when using [ActiveModel::Serializers][active_model_serializers].
